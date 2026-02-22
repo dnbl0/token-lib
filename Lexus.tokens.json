@@ -1,0 +1,227 @@
+{
+  "prim": {
+    "dim": {
+      "0": {
+        "$type": "number",
+        "$value": 0,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:930:5192",
+          "com.figma.hiddenFromPublishing": true,
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.isOverride": true
+        }
+      },
+      "4": {
+        "$type": "number",
+        "$value": 4,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:930:5193",
+          "com.figma.hiddenFromPublishing": true,
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.isOverride": true
+        }
+      },
+      "8": {
+        "$type": "number",
+        "$value": 8,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:930:5194",
+          "com.figma.hiddenFromPublishing": true,
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.isOverride": true
+        }
+      },
+      "12": {
+        "$type": "number",
+        "$value": 12,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:930:5195",
+          "com.figma.hiddenFromPublishing": true,
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.isOverride": true
+        }
+      },
+      "16": {
+        "$type": "number",
+        "$value": 16,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:930:5196",
+          "com.figma.hiddenFromPublishing": true,
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.isOverride": true
+        }
+      },
+      "20": {
+        "$type": "number",
+        "$value": 20,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:930:5197",
+          "com.figma.hiddenFromPublishing": true,
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.isOverride": true
+        }
+      },
+      "24": {
+        "$type": "number",
+        "$value": 24,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:930:5198",
+          "com.figma.hiddenFromPublishing": true,
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.isOverride": true
+        }
+      },
+      "32": {
+        "$type": "number",
+        "$value": 32,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:930:5199",
+          "com.figma.hiddenFromPublishing": true,
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.isOverride": true
+        }
+      },
+      "40": {
+        "$type": "number",
+        "$value": 40,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:930:5200",
+          "com.figma.hiddenFromPublishing": true,
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.isOverride": true
+        }
+      },
+      "48": {
+        "$type": "number",
+        "$value": 48,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:930:5201",
+          "com.figma.hiddenFromPublishing": true,
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.isOverride": true
+        }
+      },
+      "56": {
+        "$type": "number",
+        "$value": 56,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:930:5202",
+          "com.figma.hiddenFromPublishing": true,
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.isOverride": true
+        }
+      },
+      "64": {
+        "$type": "number",
+        "$value": 64,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:930:5203",
+          "com.figma.hiddenFromPublishing": true,
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.isOverride": true
+        }
+      },
+      "80": {
+        "$type": "number",
+        "$value": 80,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:930:5204",
+          "com.figma.hiddenFromPublishing": true,
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.isOverride": true
+        }
+      },
+      "96": {
+        "$type": "number",
+        "$value": 96,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:930:5205",
+          "com.figma.hiddenFromPublishing": true,
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.isOverride": true
+        }
+      },
+      "120": {
+        "$type": "number",
+        "$value": 120,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:930:5206",
+          "com.figma.hiddenFromPublishing": true,
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.isOverride": true
+        }
+      }
+    },
+    "b-r": {
+      "sm": {
+        "$type": "number",
+        "$value": 3,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:930:5207",
+          "com.figma.hiddenFromPublishing": true,
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.isOverride": true
+        }
+      },
+      "md": {
+        "$type": "number",
+        "$value": 5,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:930:5208",
+          "com.figma.hiddenFromPublishing": true,
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.isOverride": true
+        }
+      },
+      "lg": {
+        "$type": "number",
+        "$value": 8,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:930:5209",
+          "com.figma.hiddenFromPublishing": true,
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.isOverride": true
+        }
+      }
+    }
+  },
+  "$extensions": {
+    "com.figma.modeName": "Lexus"
+  }
+}
